@@ -1,6 +1,6 @@
-//  James Hall
-//  UCF COP 3223C -Spring 2018
-//  Final Project - Vigenere Cipher
+// James Hall
+// Spring 2018
+// Vigenere Cipher
 
 #include <stdio.h>
 #include <stdlib.h>
